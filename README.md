@@ -5,7 +5,7 @@ welcom to tool [You-Can]
 python3 You-Can.py
 
 and enter url
- - example => http://m.com
+ - example => http:www.alhawae.net
 
 My channel in telegram :
 ==> https://ERROR404VIGITAMHS
